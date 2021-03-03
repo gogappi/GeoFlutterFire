@@ -1,3 +1,8 @@
+## 3.0.0
+* geoflutterfire created for gogappi
+* example pubspec.yaml changed cloud_firestore to ^0.16.0
+* pubspec.yaml changed cloud_firestore to ^0.16.0
+
 ## 2.2.1
 * upgraded dependencies
 
